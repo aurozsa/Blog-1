@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Interactive Sports Data Visualization with Python"
-date: 2025-02-18
+date: 2025-04-07
 description: "Enhancing sports analytics with interactive visualizations using Plotly and Bokeh."
 categories: [data-science, sports-analytics]
 image: "/assets/img/sports_visualization_banner.jpg"
