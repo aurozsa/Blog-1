@@ -1,0 +1,20 @@
+# Ignore API key
+api_key.txt
+
+# Ignore compiled files
+*.pyc
+__pycache__/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+_site/
+_site
+.sass-cache
+.DS_Store
+.ruby-version
+node_modules
+.jekyll-cache/
+.jekyll-cache/*
+_vendor
+Gemfile.lock
